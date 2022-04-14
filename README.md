@@ -13,3 +13,6 @@ git push -u origin main
 git remote add origin git@github.com:erpcall2020/git_command.git
 git branch -M main
 git push -u origin main
+
+to remove 404 error from user permission 
+git remote set-url origin https://github.com/erpcall2020/git_command.
